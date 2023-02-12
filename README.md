@@ -9,3 +9,5 @@
 </ul>
 <h3>At the end, you'll have a working chat app:</h3>
 <img src="https://github.com/ulugbekivich/SignalRChat-Demo/blob/main/assets/exemple.jpg" height="500">
+
+## Read the rest of the guide: <a href="https://learn.microsoft.com/en-Us/aspnet/core/tutorials/signalr?view=aspnetcore-6.0&viewFallbackFrom=aspnetcore-1.1&tabs=visual-studio">Link</a>

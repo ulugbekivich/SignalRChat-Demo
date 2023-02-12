@@ -8,4 +8,4 @@
     <li>Add code that sends messages from any client to all connected clients.</li>
 </ul>
 <h3>At the end, you'll have a working chat app:</h3>
-<img src="https://github.com/ulugbekivich/SignalRChat-Demo/blob/main/assets/exemple.jpg" height="600">
+<img src="https://github.com/ulugbekivich/SignalRChat-Demo/blob/main/assets/exemple.jpg" height="500">
